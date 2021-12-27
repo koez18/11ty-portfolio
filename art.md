@@ -37,5 +37,6 @@ tags: navItem
         <img src="A View (art).jpg" alt="A View" width="500" height="600"> 
     </div>
 </div>
+<script src="/js/main.js"></script>
 </body>
 </html> 
