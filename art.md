@@ -3,7 +3,6 @@ title: Contact || Kellie Ortiz's Portfolio
 layout: base.njk
 tags: navItem
 ---
-<body>
 
  <div class="main-box">
 <header>
@@ -38,5 +37,4 @@ tags: navItem
     </div>
 </div>
 <script src="/js/main.js"></script>
-</body>
 </html> 

@@ -13,7 +13,6 @@ tags: navItem
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="stylesheet" href="css/style.css">
     </head>
-<body>
     <div class="main-box">
 <header>
     <img src="logo.png" alt="banner" class="banner" width="800" height="250">
@@ -32,13 +31,12 @@ tags: navItem
         <img src="shout 1 (design).png" alt="magazine spread" width="500" height="600"> 
       </div>
 
-    <div class="boxed">
+<div class="boxed">
         <img src="Franklin Gothic (design).png" alt="type poster" width="500" height="600"> 
     </div>
     <div class="boxed">
         <img src="vans (design).png" alt="type poster" width="700" height="600"> 
     </div>
     </div>
-</body>
 <script src="/js/main.js"></script>
 </html> 
