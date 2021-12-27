@@ -1,3 +1,8 @@
+---
+title: Contact || Kellie Ortiz's Portfolio
+layout: base.njk
+tags: navItem
+---
 <body>
 
  <div class="main-box">
